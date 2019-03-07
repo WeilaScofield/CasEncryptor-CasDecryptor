@@ -6,4 +6,4 @@ Thank you for suffering my program!
 # Download Appliction
 You guys can download CasEncryptor and CasDecryptor for windows or linux.
 # License
-CsaEncryptor&CasDecryptor is released under the terms of tne Apache-2.0 license.
+CsaEncryptor-CasDecryptor is released under the terms of tne Apache-2.0 license.
