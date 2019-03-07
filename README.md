@@ -3,3 +3,7 @@ This is my first program written by go. CasEncroptor allows user input a text fi
 All the details about CasDecryptor is vice versa.
 You guys can download matched appliction from here.
 Thank you for suffering my program!
+# Download Appliction
+You guys can download CasEncryptor and CasDecryptor for windows or linux.
+# License
+CsaEncryptor&CasDecryptor is released under the terms of tne 
